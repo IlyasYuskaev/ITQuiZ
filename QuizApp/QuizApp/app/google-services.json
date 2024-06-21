@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "463805491133",
+    "firebase_url": "https://itquiz-a94ef-default-rtdb.firebaseio.com",
+    "project_id": "itquiz-a94ef",
+    "storage_bucket": "itquiz-a94ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463805491133:android:a3df1d49ede9c580f1d4d4",
+        "android_client_info": {
+          "package_name": "com.example.itquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs0gpot41yVyreESSxWHyttOmCSBY_uDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463805491133:android:2fabc8d7b2df033ef1d4d4",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs0gpot41yVyreESSxWHyttOmCSBY_uDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
